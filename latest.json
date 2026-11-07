@@ -1,0 +1,15 @@
+{
+  "versionCode": 10509,
+  "versionName": "1.5.9",
+  "apk": "https://raw.githubusercontent.com/matisseduffield/tally-releases/main/Tally-v1.5.9.apk",
+  "size": 327176,
+  "sha256": "b14a1a4963571b31b7d5ee5411cfce1414fe14d127e4ef9514c9a2e3282fee45",
+  "publishedAt": "2026-11-07T13:02:05Z",
+  "notes": [
+    "Amounts in rupiah, yen and other currencies without cents read 150.000 as 150,000, like the receipt",
+    "An expense too small to show in the group's currency can't be saved",
+    "The keyboard's Done key just closes the keyboard, so you can still change the split",
+    "Splitting 33.33% three ways now works",
+    "Split fields no longer reset while you type if rates arrive"
+  ]
+}

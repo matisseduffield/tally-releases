@@ -1,0 +1,11 @@
+{
+  "versionCode": 10803,
+  "versionName": "1.8.3",
+  "apk": "https://raw.githubusercontent.com/matisseduffield/tally-releases/main/Tally-v1.8.3.apk",
+  "size": 344812,
+  "sha256": "5ecf8663e00a3c14b849b7b2bbec040f1719f81c3a70e4ccbb14c31654cb5065",
+  "publishedAt": "2026-11-12T04:26:51Z",
+  "notes": [
+    "Tally 1.8.3"
+  ]
+}
